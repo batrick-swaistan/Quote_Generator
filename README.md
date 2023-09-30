@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://weather-app-ten-pi.vercel.app/" target="_blank">
+    <a href="https://quote-generator-sepia.vercel.app/" target="_blank">
       Demo
     </a>
   </h3>
